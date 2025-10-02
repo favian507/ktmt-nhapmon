@@ -1,4 +1,4 @@
-
+#Bui Van Quoc Khanh 25161143
 #include<ESP32Servo.h>
 int pos = 0;
 //servo nâng cần bắn
